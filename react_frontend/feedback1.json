@@ -1,0 +1,4 @@
+{
+    "description" : "Was the course helpful?",
+    "options" : ["yes", "obviously yes", "ofcourse"]
+}
